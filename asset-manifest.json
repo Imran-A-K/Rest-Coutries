@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rest-Coutries/static/css/main.cc931e78.css",
+    "main.js": "/Rest-Coutries/static/js/main.dac94039.js",
+    "static/js/787.a07cf542.chunk.js": "/Rest-Coutries/static/js/787.a07cf542.chunk.js",
+    "index.html": "/Rest-Coutries/index.html",
+    "main.cc931e78.css.map": "/Rest-Coutries/static/css/main.cc931e78.css.map",
+    "main.dac94039.js.map": "/Rest-Coutries/static/js/main.dac94039.js.map",
+    "787.a07cf542.chunk.js.map": "/Rest-Coutries/static/js/787.a07cf542.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc931e78.css",
+    "static/js/main.dac94039.js"
+  ]
+}
